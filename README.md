@@ -35,8 +35,9 @@ npm start
 
 
 # Import mock users
+
 ```
-mongoimport --db heroes-db --collection users --file users.json --jsonArray
+Mock data confirgured for testing.
 ```
 
 # Tests
