@@ -27,7 +27,7 @@ class TopEpisodesService {
     }
   }
 
-  private async getSeasons(seriesId: number, seasonCount: number): Promise<Array<SeasonModel>> {
+  public async getSeasons(seriesId: number, seasonCount: number): Promise<Array<SeasonModel>> {
     const all: Array<Promise<SeasonModel>> = [];
     for (let i = 1; i <= seasonCount; i++) {
       all.push(this.getSeason(seriesId, i));
