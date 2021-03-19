@@ -14,6 +14,7 @@ This repository can be used as a convenient starting point for building
 # Getting started
 - Clone the repository
 ```
+Github-url: https://github.com/adhi4d5/TMDb-Apis
 - Install dependencies
 ```
 cd <project_name>
