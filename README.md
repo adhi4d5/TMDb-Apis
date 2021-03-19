@@ -32,6 +32,7 @@ mongod
 - To run the project
 ```
 npm start
+
 ```
 
 
@@ -50,14 +51,17 @@ npm start
 
 - example-Api-2 :  http://localhost:3000/analytics/popularSeries
 
-# Import mock users
-
 ```
 Mock data confirgured for testing.
 ```
 
 # Tests
-- npm run test
+
+-- to run unit test cases 
+```
+npm  test
+
+```
 
 * Before running tests be sure to create a real `.env` file  or No problem Automaticcaly         confirgured parameters if missing .env file.
 ```
