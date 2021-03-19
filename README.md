@@ -29,16 +29,26 @@ npm install
 ```
 mongod
 ```
-- Build and run the project
+- To run the project
 ```
-npm run build
 npm start
 ```
+
+
+-To Build the project
+ ```
+ npm run build
+
+```
+
 # Base Url : http://localhost:3000/
 
 # REST endpoints
-- public: `topEpisodes/:id`, `analytics/popularSeries`
+- public: `topEpisodes/:id`, `analytics/popularSeries`;
 
+- example-Api-1 :  http://localhost:3000/topEpisodes/124
+
+- example-Api-2 :  http://localhost:3000/analytics/popularSeries
 
 # Import mock users
 
@@ -47,7 +57,8 @@ Mock data confirgured for testing.
 ```
 
 # Tests
-* Before running tests be sure to create a real `.env` file in root using the fields found in `.env.example`
+- npm run test
+
+* Before running tests be sure to create a real `.env` file  or No problem Automaticcaly         confirgured parameters if missing .env file.
 ```
-npm run test
 ```
