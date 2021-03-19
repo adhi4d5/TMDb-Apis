@@ -15,8 +15,13 @@ This repository can be used as a convenient starting point for building
 - Clone the repository
 ```
 Github-url: https://github.com/adhi4d5/TMDb-Apis
-- Install dependencies
 ```
+- Install dependencies
+
+- using npm i
+
+- will download all the dependencies 
+
 cd <project_name>
 npm install
 ```
