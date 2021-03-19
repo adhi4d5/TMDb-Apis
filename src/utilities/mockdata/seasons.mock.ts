@@ -22,7 +22,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -31,7 +31,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1621674,
@@ -40,7 +40,7 @@ const season1Mock = {
           'department': 'Production',
           'job': 'Casting',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1318663,
@@ -49,7 +49,7 @@ const season1Mock = {
           'department': 'Costume \u0026 Make-Up',
           'job': 'Costume Design',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58292,
@@ -58,7 +58,7 @@ const season1Mock = {
           'department': 'Camera',
           'job': 'Director of Photography',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 960431,
@@ -67,7 +67,7 @@ const season1Mock = {
           'department': 'Art',
           'job': 'Production Design',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1226097,
@@ -76,7 +76,7 @@ const season1Mock = {
           'department': 'Production',
           'job': 'Supervising Producer',
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 33316,
@@ -85,7 +85,7 @@ const season1Mock = {
           'department': 'Production',
           'job': 'Executive Producer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -177,7 +177,7 @@ const season1Mock = {
           'character': 'Motel Clerk',
           'order': 2192,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1217939,
@@ -228,7 +228,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 50720,
@@ -237,7 +237,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Story',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 50721,
@@ -246,7 +246,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Story',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -255,7 +255,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Teleplay',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -293,7 +293,7 @@ const season1Mock = {
           'character': 'Mr. Shaw',
           'order': 532,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 33352,
@@ -311,7 +311,7 @@ const season1Mock = {
           'character': 'Tommy Collins',
           'order': 1110,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 53720,
@@ -329,7 +329,7 @@ const season1Mock = {
           'character': 'Brad',
           'order': 2185,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1447027,
@@ -338,7 +338,7 @@ const season1Mock = {
           'character': 'Paramedic',
           'order': 2186,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1457245,
@@ -356,7 +356,7 @@ const season1Mock = {
           'character': 'Wendigo',
           'order': 2188,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -380,7 +380,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225899,
@@ -398,7 +398,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -454,7 +454,7 @@ const season1Mock = {
           'character': 'Fisherman',
           'order': 2179,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1447031,
@@ -463,7 +463,7 @@ const season1Mock = {
           'character': 'Will Carlton',
           'order': 2180,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 86628,
@@ -481,7 +481,7 @@ const season1Mock = {
           'character': 'Peter Sweeney',
           'order': 2182,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1447032,
@@ -490,7 +490,7 @@ const season1Mock = {
           'character': 'Waitress',
           'order': 2183,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -514,7 +514,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 65408,
@@ -523,7 +523,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -561,7 +561,7 @@ const season1Mock = {
           'character': 'Lou',
           'order': 535,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 110525,
@@ -570,7 +570,7 @@ const season1Mock = {
           'character': 'Max Jaffe',
           'order': 2168,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1237422,
@@ -597,7 +597,7 @@ const season1Mock = {
           'character': 'Flight Attendant',
           'order': 2171,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 65807,
@@ -615,7 +615,7 @@ const season1Mock = {
           'character': 'Woman Passenger',
           'order': 2173,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888352,
@@ -624,7 +624,7 @@ const season1Mock = {
           'character': 'Security Guard',
           'order': 2174,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 62172,
@@ -657,7 +657,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 50721,
@@ -666,7 +666,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Teleplay',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 50720,
@@ -675,7 +675,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Teleplay',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -684,7 +684,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Story',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -704,7 +704,7 @@ const season1Mock = {
           'character': 'Charlie',
           'order': 498,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 67520,
@@ -713,7 +713,7 @@ const season1Mock = {
           'character': 'Detective',
           'order': 499,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 27775,
@@ -731,7 +731,7 @@ const season1Mock = {
           'character': 'Donna Shoemaker',
           'order': 501,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 46903,
@@ -749,7 +749,7 @@ const season1Mock = {
           'character': 'Teacher',
           'order': 2162,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 33308,
@@ -767,7 +767,7 @@ const season1Mock = {
           'character': 'Steven Shoemaker',
           'order': 2164,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888347,
@@ -776,7 +776,7 @@ const season1Mock = {
           'character': 'Lily\'s Friend #1',
           'order': 2165,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 21618,
@@ -827,7 +827,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -838,7 +838,7 @@ const season1Mock = {
           'character': 'Rebecca Warren',
           'order': 500,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 172994,
@@ -874,7 +874,7 @@ const season1Mock = {
           'character': 'Bystander',
           'order': 2160,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 59246,
@@ -883,7 +883,7 @@ const season1Mock = {
           'character': 'Zach Warren',
           'order': 2161,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -907,7 +907,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 29924,
@@ -916,7 +916,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -936,7 +936,7 @@ const season1Mock = {
           'character': 'Lori Sorenson',
           'order': 499,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1188937,
@@ -945,7 +945,7 @@ const season1Mock = {
           'character': 'Rich',
           'order': 500,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 16559,
@@ -999,7 +999,7 @@ const season1Mock = {
           'character': 'Mark',
           'order': 2157,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -1023,7 +1023,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225917,
@@ -1032,7 +1032,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 157892,
@@ -1041,7 +1041,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1052,7 +1052,7 @@ const season1Mock = {
           'character': 'Larry Pike',
           'order': 495,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 33350,
@@ -1061,7 +1061,7 @@ const season1Mock = {
           'character': 'Lynda Bloome',
           'order': 496,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 102750,
@@ -1115,7 +1115,7 @@ const season1Mock = {
           'character': 'Joe Whitetree',
           'order': 2154,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888344,
@@ -1157,7 +1157,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1177,7 +1177,7 @@ const season1Mock = {
           'character': 'Jenny',
           'order': 496,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 56749,
@@ -1186,7 +1186,7 @@ const season1Mock = {
           'character': 'Mr. Guenther',
           'order': 2150,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 94651,
@@ -1195,7 +1195,7 @@ const season1Mock = {
           'character': 'Joe',
           'order': 2151,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1052901,
@@ -1204,7 +1204,7 @@ const season1Mock = {
           'character': 'Sari',
           'order': 2152,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888340,
@@ -1213,7 +1213,7 @@ const season1Mock = {
           'character': 'Richie',
           'order': 2153,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 47296,
@@ -1255,7 +1255,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 130533,
@@ -1264,7 +1264,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1293,7 +1293,7 @@ const season1Mock = {
           'character': 'Daniel Gunderson',
           'order': 493,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 5009,
@@ -1320,7 +1320,7 @@ const season1Mock = {
           'character': 'Sanford Ellicott',
           'order': 2144,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1457274,
@@ -1347,7 +1347,7 @@ const season1Mock = {
           'character': 'Bar Patron',
           'order': 2147,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1603738,
@@ -1356,7 +1356,7 @@ const season1Mock = {
           'character': 'Straight Jacket Spirit',
           'order': 2148,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1009263,
@@ -1365,7 +1365,7 @@ const season1Mock = {
           'character': 'Examination Room Spirit',
           'order': 2149,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 170741,
@@ -1398,7 +1398,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 29924,
@@ -1407,7 +1407,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Teleplay',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1222707,
@@ -1416,7 +1416,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Story',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1436,7 +1436,7 @@ const season1Mock = {
           'character': 'Emily Jorgeson',
           'order': 486,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 85922,
@@ -1499,7 +1499,7 @@ const season1Mock = {
           'character': 'Driver #1',
           'order': 2139,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 203228,
@@ -1517,7 +1517,7 @@ const season1Mock = {
           'character': 'Pauly',
           'order': 2141,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1449399,
@@ -1559,7 +1559,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225899,
@@ -1577,7 +1577,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1597,7 +1597,7 @@ const season1Mock = {
           'character': 'Sue Ann Grange',
           'order': 483,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 27111,
@@ -1642,7 +1642,7 @@ const season1Mock = {
           'character': 'Male Doctor',
           'order': 2130,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 63792,
@@ -1660,7 +1660,7 @@ const season1Mock = {
           'character': 'Female Doctor',
           'order': 2132,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1346985,
@@ -1669,7 +1669,7 @@ const season1Mock = {
           'character': 'Tall Deputy',
           'order': 2133,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1176581,
@@ -1678,7 +1678,7 @@ const season1Mock = {
           'character': 'David Wright',
           'order': 2134,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1134012,
@@ -1696,7 +1696,7 @@ const season1Mock = {
           'character': 'Cop #2',
           'order': 2136,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -1720,7 +1720,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225927,
@@ -1729,7 +1729,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225929,
@@ -1738,7 +1738,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1758,7 +1758,7 @@ const season1Mock = {
           'character': 'Mrs. Robinson',
           'order': 481,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 62869,
@@ -1785,7 +1785,7 @@ const season1Mock = {
           'character': 'Dockworker',
           'order': 2127,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888309,
@@ -1794,7 +1794,7 @@ const season1Mock = {
           'character': 'Ron Stubbins',
           'order': 2128,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1429556,
@@ -1827,7 +1827,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225899,
@@ -1845,7 +1845,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1883,7 +1883,7 @@ const season1Mock = {
           'character': 'Roger Miller',
           'order': 2123,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888308,
@@ -1892,7 +1892,7 @@ const season1Mock = {
           'character': 'Neighbor Lady',
           'order': 2124,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 183016,
@@ -1934,7 +1934,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 29924,
@@ -1943,7 +1943,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -1954,7 +1954,7 @@ const season1Mock = {
           'character': 'Pa Bender',
           'order': 478,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 42707,
@@ -1972,7 +1972,7 @@ const season1Mock = {
           'character': 'Alvin Jenkins',
           'order': 480,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 203630,
@@ -1999,7 +1999,7 @@ const season1Mock = {
           'character': 'Lee Bender',
           'order': 2118,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 172868,
@@ -2008,7 +2008,7 @@ const season1Mock = {
           'character': 'Evan McKay',
           'order': 2119,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 168500,
@@ -2017,7 +2017,7 @@ const season1Mock = {
           'character': 'Dispatcher (voice)',
           'order': 2120,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225941,
@@ -2026,7 +2026,7 @@ const season1Mock = {
           'character': 'Mrs. McKay',
           'order': 2121,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -2050,7 +2050,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -2059,7 +2059,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2070,7 +2070,7 @@ const season1Mock = {
           'character': 'Passerby',
           'order': 2,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 80348,
@@ -2088,7 +2088,7 @@ const season1Mock = {
           'character': 'Meredith McDonell',
           'order': 383,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 42374,
@@ -2159,7 +2159,7 @@ const season1Mock = {
           'character': 'Teenage Boy #3',
           'order': 1,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 62173,
@@ -2213,7 +2213,7 @@ const season1Mock = {
           'character': 'James',
           'order': 2113,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1366442,
@@ -2240,7 +2240,7 @@ const season1Mock = {
           'character': 'Teenage Girl #2',
           'order': 2116,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888305,
@@ -2249,7 +2249,7 @@ const season1Mock = {
           'character': 'Mr. Goodwin',
           'order': 2117,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1188136,
@@ -2258,7 +2258,7 @@ const season1Mock = {
           'character': 'Mordechai Murdoch',
           'order': 2118,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -2282,7 +2282,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1216753,
@@ -2291,7 +2291,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2338,7 +2338,7 @@ const season1Mock = {
           'character': 'La Shtriga',
           'order': 6,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 11828,
@@ -2374,7 +2374,7 @@ const season1Mock = {
           'character': 'Michael',
           'order': 2109,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 112647,
@@ -2383,7 +2383,7 @@ const season1Mock = {
           'character': 'Betty',
           'order': 2110,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1689478,
@@ -2401,7 +2401,7 @@ const season1Mock = {
           'character': 'Gloria',
           'order': 2112,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 47296,
@@ -2434,7 +2434,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225933,
@@ -2443,7 +2443,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2517,7 +2517,7 @@ const season1Mock = {
           'character': 'Mover',
           'order': 595,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 587960,
@@ -2526,7 +2526,7 @@ const season1Mock = {
           'character': 'Brandi',
           'order': 596,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888300,
@@ -2544,7 +2544,7 @@ const season1Mock = {
           'character': 'Evelyn',
           'order': 2109,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -2568,7 +2568,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 29924,
@@ -2577,7 +2577,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1223184,
@@ -2586,7 +2586,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2624,7 +2624,7 @@ const season1Mock = {
           'character': 'Beau',
           'order': 597,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 77035,
@@ -2633,7 +2633,7 @@ const season1Mock = {
           'character': 'Beth',
           'order': 597,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 232525,
@@ -2702,7 +2702,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 65408,
@@ -2711,7 +2711,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2722,7 +2722,7 @@ const season1Mock = {
           'character': 'Monica Holt',
           'order': 1,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 61544,
@@ -2758,7 +2758,7 @@ const season1Mock = {
           'character': 'Nurse',
           'order': 453,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 42374,
@@ -2785,7 +2785,7 @@ const season1Mock = {
           'character': 'Jim Murphy',
           'order': 2106,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 47296,
@@ -2818,7 +2818,7 @@ const season1Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -2827,7 +2827,7 @@ const season1Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2856,7 +2856,7 @@ const season1Mock = {
           'character': 'Firefighter',
           'order': 598,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 47296,
@@ -2911,7 +2911,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -2920,7 +2920,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -2958,7 +2958,7 @@ const season2Mock = {
           'character': 'Truck Driver',
           'order': 599,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 103284,
@@ -2967,7 +2967,7 @@ const season2Mock = {
           'character': 'Male EMT',
           'order': 600,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 87738,
@@ -3003,7 +3003,7 @@ const season2Mock = {
           'character': 'Doctor Minion',
           'order': 2106,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 141495,
@@ -3054,7 +3054,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225933,
@@ -3063,7 +3063,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3155,7 +3155,7 @@ const season2Mock = {
           'character': 'Nora\'s Father',
           'order': 2101,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 205052,
@@ -3173,7 +3173,7 @@ const season2Mock = {
           'character': 'Second Little Girl',
           'order': 2103,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 172873,
@@ -3215,7 +3215,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3253,7 +3253,7 @@ const season2Mock = {
           'character': 'Sheriff',
           'order': 2098,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 61161,
@@ -3295,7 +3295,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225902,
@@ -3304,7 +3304,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3315,7 +3315,7 @@ const season2Mock = {
           'character': 'Angela Mason',
           'order': 0,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 62522,
@@ -3384,7 +3384,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3431,7 +3431,7 @@ const season2Mock = {
           'character': 'Andrew Gallagher',
           'order': 555,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 33053,
@@ -3467,7 +3467,7 @@ const season2Mock = {
           'character': 'Holly Beckett',
           'order': 2093,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888292,
@@ -3476,7 +3476,7 @@ const season2Mock = {
           'character': 'Security Guard',
           'order': 2094,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1437097,
@@ -3485,7 +3485,7 @@ const season2Mock = {
           'character': 'Ed',
           'order': 2095,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1475089,
@@ -3503,7 +3503,7 @@ const season2Mock = {
           'character': 'Deputy',
           'order': 2097,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -3527,7 +3527,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1212236,
@@ -3536,7 +3536,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3574,7 +3574,7 @@ const season2Mock = {
           'character': 'Ed',
           'order': 2089,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1491615,
@@ -3583,7 +3583,7 @@ const season2Mock = {
           'character': 'H. H. Holmes',
           'order': 2090,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 62870,
@@ -3625,7 +3625,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1223184,
@@ -3634,7 +3634,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3690,7 +3690,7 @@ const season2Mock = {
           'character': 'Policewoman',
           'order': 2089,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -3714,7 +3714,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225899,
@@ -3734,7 +3734,7 @@ const season2Mock = {
           'character': 'Dean\'s Demon',
           'order': 1,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 168554,
@@ -3815,7 +3815,7 @@ const season2Mock = {
           'character': 'Hotel Manager',
           'order': 2085,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 146294,
@@ -3833,7 +3833,7 @@ const season2Mock = {
           'character': 'Lloyd\'s Patron #1',
           'order': 2087,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888286,
@@ -3842,7 +3842,7 @@ const season2Mock = {
           'character': 'Lloyd\'s Patron #2',
           'order': 2088,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -3866,7 +3866,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 65408,
@@ -3875,7 +3875,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -3886,7 +3886,7 @@ const season2Mock = {
           'character': 'Pamela Clayton',
           'order': 0,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 142193,
@@ -3973,7 +3973,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225902,
@@ -3982,7 +3982,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4047,7 +4047,7 @@ const season2Mock = {
           'character': 'Ava\'s Fiancé',
           'order': 2077,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 158575,
@@ -4065,7 +4065,7 @@ const season2Mock = {
           'character': 'Police Officer',
           'order': 2079,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -4089,7 +4089,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1212236,
@@ -4098,7 +4098,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4127,7 +4127,7 @@ const season2Mock = {
           'character': 'Tyler Thompson',
           'order': 562,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 80344,
@@ -4136,7 +4136,7 @@ const season2Mock = {
           'character': 'Sherwin',
           'order': 2073,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 61168,
@@ -4145,7 +4145,7 @@ const season2Mock = {
           'character': 'Rose Thompson',
           'order': 2074,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1193870,
@@ -4172,7 +4172,7 @@ const season2Mock = {
           'character': 'Young Rose',
           'order': 2077,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -4196,7 +4196,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1215761,
@@ -4205,7 +4205,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4216,7 +4216,7 @@ const season2Mock = {
           'character': 'Sherri',
           'order': 0,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 53572,
@@ -4279,7 +4279,7 @@ const season2Mock = {
           'character': 'Lieutenant Robarts',
           'order': 2071,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 60721,
@@ -4330,7 +4330,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225899,
@@ -4377,7 +4377,7 @@ const season2Mock = {
           'character': 'Frank',
           'order': 2065,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 206881,
@@ -4437,7 +4437,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1223184,
@@ -4446,7 +4446,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4526,7 +4526,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4564,7 +4564,7 @@ const season2Mock = {
           'character': 'Curtis',
           'order': 2056,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 43431,
@@ -4591,7 +4591,7 @@ const season2Mock = {
           'character': 'Classy Girl',
           'order': 2059,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 168501,
@@ -4609,7 +4609,7 @@ const season2Mock = {
           'character': 'Research Scientist',
           'order': 2061,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 205934,
@@ -4618,7 +4618,7 @@ const season2Mock = {
           'character': 'Alien',
           'order': 2062,
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888254,
@@ -4669,7 +4669,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225902,
@@ -4678,7 +4678,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4740,7 +4740,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 146887,
@@ -4749,7 +4749,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225899,
@@ -4805,7 +4805,7 @@ const season2Mock = {
           'character': 'Hooker',
           'order': 566,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1678985,
@@ -4850,7 +4850,7 @@ const season2Mock = {
           'character': 'Stripper',
           'order': 2058,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -4874,7 +4874,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1215761,
@@ -4883,7 +4883,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -4903,7 +4903,7 @@ const season2Mock = {
           'character': 'Ashley / Kendra',
           'order': 1,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 162703,
@@ -4912,7 +4912,7 @@ const season2Mock = {
           'character': 'McG',
           'order': 2,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 12226,
@@ -4984,7 +4984,7 @@ const season2Mock = {
           'character': 'Frank Jaffe',
           'order': 2052,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 116972,
@@ -5026,7 +5026,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 29924,
@@ -5035,7 +5035,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -5127,7 +5127,7 @@ const season2Mock = {
           'character': 'Tiny',
           'order': 2047,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1366657,
@@ -5154,7 +5154,7 @@ const season2Mock = {
           'character': 'Contractor #2',
           'order': 2050,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
     },
@@ -5178,7 +5178,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -5187,7 +5187,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225902,
@@ -5196,7 +5196,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Writer',
           'gender': 1,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -5285,7 +5285,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
@@ -5341,7 +5341,7 @@ const season2Mock = {
           'character': 'Andrew Gallagher',
           'order': 555,
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1888212,
@@ -5350,7 +5350,7 @@ const season2Mock = {
           'character': 'Acheri',
           'order': 2042,
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58398,
@@ -5401,7 +5401,7 @@ const season2Mock = {
           'department': 'Directing',
           'job': 'Director',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -5410,7 +5410,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Teleplay',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 58321,
@@ -5419,7 +5419,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Story',
           'gender': 2,
-          'profile_path': null,
+          'profile_path': undefined,
         },
         {
           'id': 1225968,
@@ -5428,7 +5428,7 @@ const season2Mock = {
           'department': 'Writing',
           'job': 'Story',
           'gender': 0,
-          'profile_path': null,
+          'profile_path': undefined,
         },
       ],
       'guest_stars': [
